@@ -1,0 +1,14 @@
+void main()
+{
+ 
+  var a= [1, 4, 9, 16,25,36,49,64,81,100 ];  
+    print(a[1]);
+    print(a[3]);
+    print(a[5]);
+    print(a[7]);
+    print(a[9]);
+    var b = [4,16,36,64,100];
+    print ('the new list of even number is');
+    print(b);
+
+}
